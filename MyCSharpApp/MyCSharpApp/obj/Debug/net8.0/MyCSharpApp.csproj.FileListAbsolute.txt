@@ -1,0 +1,15 @@
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.deps.json
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.runtimeconfig.json
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.dll
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.pdb
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.AssemblyInfoInputs.cache
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.AssemblyInfo.cs
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.csproj.CoreCompileInputs.cache
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.sourcelink.json
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.dll
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/refint/MyCSharpApp.dll
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.pdb
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.genruntimeconfig.cache
+/Users/sunny_yeung/Downloads/YAT/Winter2024/CSE310/sunny-project/MyCSharpApp/MyCSharpApp/obj/Debug/net8.0/ref/MyCSharpApp.dll
