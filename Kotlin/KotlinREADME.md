@@ -8,7 +8,8 @@
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=spYsnrTzyL4)
+- video might not have any share screen at the begining of introduction. Feel free to skip to the middle to check the code demonstration
 
 # Development Environment
 

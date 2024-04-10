@@ -1,14 +1,12 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 {Provide a description of the software that you wrote to demonstrate the JavaScript language.}
 
 {Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n_-Sk0YBFEs)
 
 # Development Environment
 
@@ -20,8 +18,9 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Youtube: Build a Simple Weather App with HTML CSS and JavaScript | Beginner Tutorial](https://www.youtube.com/watch?v=74IOjtVvExY)
+- [YouTube: How To Make Weather App Using JavaScript Step By Step Explained](https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=2224s)
+- [W3school](https://www.w3schools.com/js/default.asp)
 
 # Future Work
 

@@ -8,7 +8,8 @@
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tYjrYN18j50)
+- video might not have any share screen at the begining of introduction. Feel free to skip to the middle to check the code demonstration
 
 # Development Environment
 
@@ -20,7 +21,7 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
+- [w3school](https://www.w3schools.com/cpp/default.asp)
 - [Web Site Name](http://url.link.goes.here)
 
 # Future Work

@@ -8,8 +8,7 @@
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](https://www.youtube.com/watch?v=bphzTbgTFwY)
-- video might not have any share screen at the begining of introduction. Feel free to skip to the middle to check the code demonstration
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
