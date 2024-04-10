@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
+//Tips: Run the correct file; dotnet run --project ./MyCSharpApp/MyCSharpApp/MyCSharpApp.csproj
 
 using System;
 using System.IO;
