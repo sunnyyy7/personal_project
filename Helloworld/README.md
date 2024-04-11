@@ -1,14 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+What you are trying to accomplish as a software engineer to further your learning:
+- Sample of recording and python helloworld file.
 
-{Provide a description of your software}
+Description of your software:
+- Python display function
 
-{Describe your purpose for creating this software.}
+Describe your purpose for creating this software:
+- Demo of "helloworld" print statment in python.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Link to your YouTube demonstration:  (It should be a one minute demo of the software running and a walkthrough of the code.)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Fb2v05cqWt4)
+- video skip to the middle
 
 # Development Environment
 
@@ -22,4 +26,4 @@ Programming language that you used:
 
 {Make a list of websites that you found helpful in this project}
 * [learnpython.org](https://www.learnpython.org/en/Hello,_World!)
-* [Web Site Name](http://url.link.goes.here)
+* [Zoom Support](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063640#:~:text=Start%20a%20Zoom%20meeting%20as,while%20the%20recording%20is%20active.)
