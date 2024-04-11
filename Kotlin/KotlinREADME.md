@@ -1,33 +1,39 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+What you are trying to accomplish as a software engineer to further your learning:
+- Learn the Basic Kotlin, and apply some of the concepts about Kotlin into a code programe.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+Description of the software that demonstrate the Kotlin language:
+- Basic Calculator: Create a basic calculator application with support for arithmetic operations and user-friendly input handling.
 
-{Describe your purpose for writing this software.}
+Purpose for writing this software:
+- Write one or more programs in Kotlin that might d of Variables, Expressions, Conditionals, Loops, Functions, Classes...etc
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+Link to your YouTube demonstration. It takes around 4 minute demo of the software running and a walkthrough of the code, it shared what you learned about the language syntax.
 
 [Software Demo Video](https://www.youtube.com/watch?v=spYsnrTzyL4)
 - video might not have any share screen at the begining of introduction. Feel free to skip to the middle to check the code demonstration
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+1. The tools that you used to develop the software:
+- IntelliJ DEA CE
 
-{Describe the programming language that you used and any libraries.}
+2. The programming language that you used and any libraries.
+- Kotlin
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [w3schools | Kotlin Tutorial](https://www.w3schools.com/KOTLIN/index.php)
+- [YouTube | Calculator App Android Studio Kotlin Tutorial](https://www.youtube.com/watch?v=2hSHgungOKI)
+- [YouTube | ASMR Programming - Calculator with kotlin - No Talking](https://www.youtube.com/watch?v=zl2QsDfiWjk)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Item 1: Could be more user freidly. (Found out the menu options instrction would be a little confusing)
+- Item 2: More function or abiltity in the programe. Like edit date abd time...etc
+- Item 3: Have a better format like spacing.
